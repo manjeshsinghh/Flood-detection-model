@@ -1,3 +1,8 @@
+# Flood-detection model
+
+## 🌐 Live App
+
+**Access the application:** [nlpmodel.streamlit.app](https://flood-detection-model.streamlit.app/)]
 # Flood Detection Dashboard
 
 A deep learning application that classifies river basin images as **flood-prone** or **non-flood-prone** using CNN models. Includes an interactive Streamlit dashboard for easy image and video predictions.
